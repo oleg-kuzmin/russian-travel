@@ -1,0 +1,37 @@
+.place__image {
+  width: 100%;
+  min-width: 320px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+@media screen and (min-width: 321px) {
+  .place__image {
+    width: 100%;		
+    min-width: 320px;
+    justify-self: center;
+  }
+}
+@media screen and (min-width: 768px) {
+  .place__image {
+    min-width: 340px;
+    justify-self: start;
+    grid-area: place__image;
+    margin: 0;
+  }
+}
+@media screen and (min-width: 769px) {
+  .place__image {
+    width: 100%;		
+    max-width: 440px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .place__image {
+    max-width: 440px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .place__image {
+    max-width: 460px;
+  }
+}

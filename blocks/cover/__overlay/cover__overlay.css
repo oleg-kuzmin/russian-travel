@@ -1,0 +1,14 @@
+.cover__overlay {
+  min-height: calc(100vw / 1.6);
+  max-height: 740px;
+  background-color: rgba(42, 44, 47, .3);
+}
+@media screen and (min-width: 1280px) {
+  .cover__overlay  {
+    min-height: 740px;
+    max-height: 740px;
+  }
+}
+.cover__overlay:hover {
+  background-color: rgba(42, 44, 47, .8);
+}

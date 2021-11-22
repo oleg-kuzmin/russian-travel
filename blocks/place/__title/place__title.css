@@ -1,0 +1,37 @@
+.place__title {
+  margin: 0 auto;
+  width: 288px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 35px;
+  color: #FFFFFF;
+}
+@media screen and (min-width: 321px) {
+  .place__title {
+    width: 100vw;
+    text-align: center;
+  }
+}
+@media screen and (min-width: 768px) {
+  .place__title {
+    text-align: left;
+    width: 330px; /*? если установить width: 340px - заголовок влезает в одну строчку, а нужно в две (figma) */ 
+    grid-area: place__title;
+    margin: 0;
+    font-size: 42px;
+    line-height: 46px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .place__title {
+    width: 440px;
+    font-size: 72px;
+    line-height: 76px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .place__title {
+    width: 460px;
+  }
+}

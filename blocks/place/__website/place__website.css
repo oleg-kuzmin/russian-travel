@@ -1,0 +1,15 @@
+.place__website {
+  margin-top: 32px;
+}
+@media screen and (min-width: 321px) {
+  .place__website {
+    justify-self: center;
+  }
+}
+@media screen and (min-width: 768px) {
+  .place__website {
+    grid-area: place__website;
+    justify-self: normal;
+    align-self: end;
+  }
+}
