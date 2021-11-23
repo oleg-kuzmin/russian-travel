@@ -22,4 +22,4 @@
 
 **Github**
 
-* [Ссылка на Github](https://github.com/alex-dust/russian-travel)
+* [Ссылка на Github](https://alex-dust.github.io/russian-travel/)
