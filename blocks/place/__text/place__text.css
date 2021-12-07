@@ -1,0 +1,4 @@
+.place__text {
+  grid-template: place__text;
+  margin: 0 auto;
+}

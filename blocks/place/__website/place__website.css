@@ -1,15 +1,15 @@
 .place__website {
-  margin-top: 32px;
+  grid-template: place__website;
+  align-self: end;
 }
-@media screen and (min-width: 321px) {
+@media screen and (max-width: 719px) {
   .place__website {
-    justify-self: center;
+    margin-top: 32px;
+    align-self: center;
   }
 }
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 350px) {
   .place__website {
-    grid-area: place__website;
-    justify-self: normal;
-    align-self: end;
+    align-self: normal;
   }
 }

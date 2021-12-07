@@ -2,11 +2,12 @@
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 14px;
+  line-height: 16px;
   color: #FFFFFF;  
 }
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 700px) {
   .footer__copyright {
-    line-height: 16px;
+    line-height: 14px;
+    margin-top: 48px;
   }
 }
