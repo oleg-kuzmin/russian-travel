@@ -11,5 +11,6 @@
 @media screen and (max-width: 350px) {
   .place__website {
     align-self: normal;
+    margin-left: 16px;
   }
 }

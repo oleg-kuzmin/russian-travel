@@ -7,12 +7,18 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  max-width: 360px;
+  width: 360px;
+}
+@media screen and (max-width: 767px) {
+  .cover__subtitle {
+    font-size: 16px;		
+    line-height: 19px;		
+  }
 }
 @media screen and (max-width: 544px) {
   .cover__subtitle {
     padding-top: 16px;
-    min-width: 288px;
+    width: 288px;
     font-size: 14px;		
     line-height: 16px;		
   }

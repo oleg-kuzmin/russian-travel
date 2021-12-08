@@ -8,3 +8,6 @@
   list-style: none;
   padding: 33px 0 0;
 }
+.intro__list span {
+  font-weight: 400;
+}
