@@ -1,25 +1,25 @@
-# Проект: Путешествие по России
+# Проект: Mesto
 
 ### Обзор
 * Интро
-* Figma
 * Технологии
+* Figma
 * Github
 
 **Интро**
 
-Проект о путешествии по России.
+Проект Mesto
 
 **Технологии**
-* адаптивная верстка под разрешения: 320 / 768 / 1024 / 1280
+* адаптивная верстка под разрешения: 320 / 1280
 * используется grid
 * используется flex
 * используется bem nested
 
 **Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4)
 
 **Github**
 
-* [Ссылка на Github](https://alex-dust.github.io/russian-travel/)
+* [Ссылка на Github](https://alex-dust.github.io/mesto-project/)

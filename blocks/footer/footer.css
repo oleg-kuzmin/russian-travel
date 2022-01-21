@@ -1,29 +1,11 @@
 .footer {
-  margin: 0 auto;
-  min-width: 168px;
-  max-width: 1184px;
-  padding: 92px 0 24px;
-  display: flex;
-  justify-content: space-between;
+  padding-top: 67px;
+  padding-bottom: 60px;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 879px) {
   .footer {
-    padding-left: 48px;
-    padding-right: 48px;
-  }
-}
-@media screen and (max-width: 768px) {
-  .footer {
-    padding-left: 24px;
-    padding-right: 24px;
-    padding-top: 88px;
-  }
-}
-@media screen and (max-width: 700px) {
-  .footer {
-    display: block;
-    padding-left: 16px;
-    padding-right: 16px;
-    padding-top: 64px;
+    padding-left: 19px;
+    padding-top: 48px;
+    padding-bottom: 34px;
   }
 }
