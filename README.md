@@ -1,5 +1,5 @@
 # Educational project: russian-travel (Landing, adaptive rubber layout)
-My second site! :) Screen resolution: 320px/ 768px/ 1024px/ 1280px
+My second site! :) Adaptive for screen resolution: 320px/ 768px/ 1024px/ 1280px
 
 ### technologies
 * html semantic structure
