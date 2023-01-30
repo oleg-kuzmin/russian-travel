@@ -6,6 +6,7 @@
   font-size: 24px;
   line-height: 28px;
   margin: 18px 18px 6px 0;
+  transition: opacity .5s;
 }
 @media screen and (max-width: 767px) {
   .header__lang-link {
@@ -20,5 +21,4 @@
 }
 .header__lang-link:hover {
   opacity: .3;
-  transition: opacity .5s;
 }
