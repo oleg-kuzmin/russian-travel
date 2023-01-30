@@ -1,25 +1,19 @@
-# Проект: Путешествие по России
+# Educational project: russian-travel (Landing, adaptive rubber layout)
+My second site! :) Screen resolution: 320px/ 768px/ 1024px/ 1280px
 
-### Обзор
-* Интро
-* Figma
-* Технологии
-* Github
+### technologies
+* html semantic structure
+* external fonts
+* name of classes by BEM nested
+* folder and file structure by BEM nested
+* flex
+* grid
+* multiple background layers via z-index
 
-**Интро**
+**project checked by code reviewer**
 
-Проект о путешествии по России.
+> There is checklist in the this repository
 
-**Технологии**
-* адаптивная верстка под разрешения: 320 / 768 / 1024 / 1280
-* используется grid
-* используется flex
-* используется bem nested
+* [Link to Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Github**
-
-* [Ссылка на Github](https://alex-dust.github.io/russian-travel/)
+* [Link to Github Pages](https://oleg-kuzmin.github.io/russian-travel)
