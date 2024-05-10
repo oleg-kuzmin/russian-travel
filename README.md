@@ -1,17 +1,16 @@
-# Learning project: russian-travel (Landing, adaptive rubber layout)
-Adaptive for screen resolution: 320px/ 768px/ 1024px/ 1280px
+# Russian Travel (Лендинг)
 
-### technologies
-* html semantic structure
-* external fonts
-* name of classes by BEM nested
-* folder and file structure by BEM nested
-* flex
-* grid
-* multiple background layers via z-index
+Лэндинг сайта про путешествия.
 
-**project checked by code reviewer**
+## Технологии
 
-* [Link to Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+Семантическая структура html.
+Адаптивная/резиновая верстка Perfect Pixel по макету Figma от 320px.
+Структура файлов, наименование классов в стиле BEM.
+Используется Flex, Grid.
+Несколько слоев фона.
 
-* [Link to Github Pages](https://oleg-kuzmin.github.io/russian-travel/)
+## Ссылки
+
+- [Github Pages](https://oleg-kuzmin.github.io/russian-travel/)
+- [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
